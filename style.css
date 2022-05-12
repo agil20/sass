@@ -1,0 +1,137 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+}
+.navbar{
+padding-top: 20px;
+background-color:darkslategrey;
+display: flex;
+justify-content: space-around   ;
+color: floralwhite;
+
+}
+
+.navbar .menyu ul  {
+
+display: flex;
+justify-content: space-around   ;
+
+}
+.navbar .menyu li a  {
+
+ text-decoration: none;
+ color: floralwhite;
+
+    
+    }
+    .navbar .menyu ul li  {
+
+padding-left: 50px;
+list-style: none;
+
+        
+ }
+ .title{
+    background-color:darkslategrey;
+    display: flex;
+  
+justify-content: space-around   ;
+    color: floralwhite;
+text-align: center;
+font-size: 30px;
+
+ }
+ .info{
+
+ padding-top: 50px;
+    width: 450px;
+   
+ }
+ .but{
+display: flex;
+
+justify-content: space-around   ;
+ }
+ .info-button button{
+font-size: 25px;
+border: none;
+
+ }
+
+ .Get button {
+
+background-color: blue;
+color: white;
+ }
+ .container{
+
+    display: flex;
+
+    justify-content: space-around   ;
+    font-size: 20px;
+
+
+ }
+ #ceo{
+text-align: center;
+
+background-color: cornsilk;
+ }
+ .working{
+padding-bottom: 20px;
+
+
+
+ }
+ .Get2 button {
+
+    background-color:darkslategrey;
+color: white;
+ }
+#blog{
+
+   text-align: center;
+   font-size: 20px;
+
+
+}
+#blog-info{
+   padding-left: 52px;
+   display: flex;
+
+   justify-content: space-around   ;
+
+   text-align: center;
+   
+}
+.blog-img img {
+width: 400px;
+height: 270px;
+   
+} 
+footer{
+   color: white;
+
+   display: flex;
+
+   justify-content: space-around   ;
+   background-color: blue;
+   margin-left: 40PX;
+   margin-RIGHT: 40PX;
+   font-size: 20px;
+
+}
+input{
+   font-size: 25px;
+}
+.sign button {
+background-color: yellowgreen;
+position: relative;
+left: 318px;
+top: -32px;
+font-size: 25px;
+
+}
